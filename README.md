@@ -25,5 +25,5 @@ It's Based on:
 ### Install as CSS snippet
 
 1. download or clone the github repo
-2. extract monokai-pro.css to _your_vault_location/.obsidian/theme_
+2. extract monokai-pro.css to _your_vault_location/.obsidian/snippets_
 3. open obsidian, go to "settings > appareance" and under CSS snippets enable monokai-pro
