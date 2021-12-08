@@ -3,7 +3,7 @@
 ---
 
 Monokai Pro port for Obsidian
-This is my first themeever, I tried to balance it between being fancy and not distracting the user
+This is my first theme, I tried to balance it between being fancy and not distracting the user
 
 It's Based on:
 
