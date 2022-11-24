@@ -272,13 +272,13 @@ mjx-container[jax='CHTML'] {
   line-height: 1.2;
 }
 
-.workspace-leaf.mod-active .view-header {
+/* .workspace-leaf.mod-active .view-header {
   border-bottom: 2px solid var(--orange);
-}
+} */
 
-.view-header-title {
+/* .view-header-title {
   color: var(--orange) !important;
-}
+} */
 
 h1,
 h2,
